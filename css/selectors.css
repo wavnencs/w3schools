@@ -1,9 +1,6 @@
 .i-left,
 .i-right {
-    margin: 0;
-    padding: 0;
-
-    width: 45%;
+    margin: 1em;
     max-width: 45%;
 }
 
