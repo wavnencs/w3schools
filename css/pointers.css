@@ -1,0 +1,42 @@
+ul, ol, table {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: arial, sans-serif;
+    font-size: 12px;
+
+    color: #1a1110;
+    background: #f8f8ff;
+
+    height: 100%;
+    line-height: 1.6;
+}
+
+a:link{
+    text-decoration: none;
+    color: #0059b2;
+}
+
+a:hover,
+a:focus {
+    text-decoration: underline;
+    color: #ba1000;
+}
+
+code {
+    color: #fafafa;
+    background: #222222;
+
+    padding: 2px;
+    border-radius: 2px;
+}
+
+hr {
+    border: 0;
+    height: 0;
+
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.4);
+}
